@@ -4,13 +4,6 @@
 </h1>
 </div>
 
-- 🌠 I currently work with Javascript at <a href="https://www.dwforcadevendas.com.br/">DW Força de Vendas<a/>
-- 🌀 Learning ReactJS, Typescript
-- 🥰 Frontend lover 
-- 🌟 Feel free to give me any tip
-- 📫 How to reach me **renatocosta072@gmail.com**
-- ⚡ Fun fact: **Most Disney characters wear gloves to keep animation simple**
-
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/astraslade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astraslade" height="30" width="40" /></a>
